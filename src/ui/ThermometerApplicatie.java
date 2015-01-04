@@ -15,6 +15,7 @@ public class ThermometerApplicatie {
         System.out.printf("De huidige temperatuur: %.2f Kelvin%n", dc.bepaalTemp(3));
         
         System.out.println("Test Liesbeth");
+        System.out.println("Test Liesbeth2");
         
     }
 }
