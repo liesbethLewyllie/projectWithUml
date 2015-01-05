@@ -28,6 +28,7 @@ public class ThermometerApplicatie {
         System.out.println("Test Liesbeth6");
         System.out.println("Test Liesbeth7");
 
+        System.out.println("Test Bert")
     }
     public void test(){
         String test = null;
