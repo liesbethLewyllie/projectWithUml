@@ -19,7 +19,6 @@ public class ThermometerApplicatie {
         System.out.println("Test Liesbeth2");
      
         System.out.println("Test Liesbeth3test");
-         System.out.println("Test Sonia");
         System.out.println("Test Liesbeth4");
          System.out.println("Test Liesbeth5");
          System.out.println("Test Liesbeth6");
@@ -27,5 +26,10 @@ public class ThermometerApplicatie {
             System.out.println("toevoegen lijn nadat extra lijn al online stond");
             
         System.out.println("bert doet ook eens iets...");
+    }
+    
+    public void test(){
+        String test = null;
+        test = new String();
     }
 }
