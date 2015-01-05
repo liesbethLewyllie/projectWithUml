@@ -29,4 +29,8 @@ public class ThermometerApplicatie {
     public void test(){
         String test = null;
     }
+    
+        public void test2(){
+        String test2 = null;
+    }
 }
