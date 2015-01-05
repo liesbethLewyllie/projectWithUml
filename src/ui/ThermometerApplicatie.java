@@ -25,4 +25,8 @@ public class ThermometerApplicatie {
             System.out.println("Test Liesbeth7");
             System.out.println("toevoegen lijn nadat extra lijn al online stond");
     }
+    
+    public void test(){
+        String test = null;
+    }
 }
