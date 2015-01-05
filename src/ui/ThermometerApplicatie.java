@@ -27,6 +27,7 @@ public class ThermometerApplicatie {
         System.out.println("Test Liesbeth5");
         System.out.println("Test Liesbeth6");
         System.out.println("Test Liesbeth7");
+         System.out.println("Test na global aanpassing enter");
 
     }
     public void test(){
