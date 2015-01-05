@@ -25,5 +25,7 @@ public class ThermometerApplicatie {
          System.out.println("Test Liesbeth6");
             System.out.println("Test Liesbeth7");
             System.out.println("toevoegen lijn nadat extra lijn al online stond");
+            
+        System.out.println("bert doet ook eens iets...");
     }
 }
