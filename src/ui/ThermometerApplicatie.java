@@ -18,6 +18,7 @@ public class ThermometerApplicatie {
         System.out.println("Test Liesbeth2");
         System.out.println("Test Liesbeth3test");
         System.out.println("Test Liesbeth4");
+         System.out.println("Test Liesbeth5");
         
     }
 }
