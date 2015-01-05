@@ -3,6 +3,7 @@ package domein;
 public class DomeinController {
 
     private Thermometer thermometer;
+    private int stef;
 
     public void initialiseerThermometer() {
         setThermometer(new Thermometer());
