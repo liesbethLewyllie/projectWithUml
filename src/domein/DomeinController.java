@@ -4,6 +4,7 @@ public class DomeinController {
 
     private Thermometer thermometer;
     private int stef;
+    private int johan;
 
     public void initialiseerThermometer() {
         setThermometer(new Thermometer());
